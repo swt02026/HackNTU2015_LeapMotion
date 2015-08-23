@@ -1,8 +1,5 @@
 # HackNTU2015-leapmotion
 
-##Platform
-
-***
 
 #### Language 
 
@@ -24,3 +21,9 @@
 * Swipe Gesture Detection
 * OpenGL Lighting
 * Draw the joint
+
+#### How to use
+
+***
+
+* please put leap.py into directory "sample" of LeapMotion SDK
