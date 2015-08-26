@@ -27,3 +27,4 @@
 ***
 
 * please put leap.py into directory "sample" of LeapMotion SDK
+(/path/to/leapmotionsdk/sample)
